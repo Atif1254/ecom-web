@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import SearchBar from "./search-bar/Search";
-import Login from "./Login";
+
 import Link from "next/link";
 export default function Header() {
    return (
